@@ -1,0 +1,18 @@
+{
+	"name": "com.miniit.web.cookies",
+	"version": "1.0.0",
+	"dependencies": {
+	},
+	"unity": "2020.3",
+	"author": {
+		"name": "Mini IT",
+		"url": "http://mini-it.com"
+	},
+	"keywords": [
+		"MiniIT",
+		"Web",
+		"Coockies"
+	],
+	"displayName": "Mini IT - Web Cookies",
+	"description": "Mini IT - Web Cookies\n\nBased on 'UnityWebGLCookie' by Eugene Lobashev\nhttps://github.com/VegK/UnityWebGLCookie"
+}
