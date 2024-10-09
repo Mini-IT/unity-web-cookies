@@ -10,7 +10,7 @@ Use Unity Package Manager to [add](https://docs.unity3d.com/Manual/upm-ui-giturl
 
 ## Usage
 
-```scharp
+```csharp
 using MiniIT;
 using UnityEngine;
 
