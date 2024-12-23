@@ -1,5 +1,5 @@
 {
-    "name": "MiniIT.Web.Cookie",
+    "name": "MiniIT.Storage.Web.Cookies",
     "rootNamespace": "MiniIT.Storage",
     "references": [],
     "includePlatforms": [
