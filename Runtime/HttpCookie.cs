@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Runtime.InteropServices;
 
-namespace MiniIT
+namespace MiniIT.Storage
 {
     public static class HttpCookie
     {
