@@ -6,7 +6,7 @@ The source is based on [UnityWebGLCookie](https://github.com/VegK/UnityWebGLCook
 
 ## Installation
 
-Use Unity Package Manager to [add](https://docs.unity3d.com/Manual/upm-ui-giturl.html) this package using this URL:  `https://github.com/Mini-IT/unity-web-cookies`
+Use Unity Package Manager to [add](https://docs.unity3d.com/Manual/upm-ui-giturl.html) this package using this URL:  `https://github.com/Mini-IT/unity-web-cookies.git`
 
 ## Usage
 
