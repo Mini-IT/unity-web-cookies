@@ -96,7 +96,7 @@ namespace MiniIT.Storage
 		/// <param name="date">Expiration date and time in the format "Day, DD Month YYYY HH:MM:SS GMT" (e.g. Fri, 31 Dec 2010 23:59:59 GMT)</param>
 		public static void SetCookie(string name, string value, DateTime date)
 		{
-			var dateJS = date.ToUniversalTime().ToString("ddd, dd'-'MMM'-'yyyy HH':'mm':'ss 'GMT'", CultureInfo.CreateSpecificCulture("en-US"));
+			var dateJS = date.ToUniversalTime().ToString("ddd, dd'-'MMM'-'yyyy HH':'mm':'ss 'GMT'", CultureInfo.InvariantCulture);
 			SetCookie(name, value, dateJS, string.Empty, string.Empty, string.Empty);
 		}
 
