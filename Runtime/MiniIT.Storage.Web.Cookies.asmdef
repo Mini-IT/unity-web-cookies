@@ -1,6 +1,6 @@
 {
-    "name": "MiniIT.Web.Cookie",
-    "rootNamespace": "",
+    "name": "MiniIT.Storage.Web.Cookies",
+    "rootNamespace": "MiniIT.Storage",
     "references": [],
     "includePlatforms": [
         "WebGL"
